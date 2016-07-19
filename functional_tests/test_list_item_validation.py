@@ -1,4 +1,5 @@
 from .base import FunctionalTest
+import time
 
 
 class ItemValidationTest(FunctionalTest):
